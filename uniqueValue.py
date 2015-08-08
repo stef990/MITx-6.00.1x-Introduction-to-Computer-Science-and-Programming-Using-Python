@@ -1,4 +1,4 @@
-def uniqueValues(aDict):
+def uniqValues(aDict):
     '''
     aDict: a dictionary
     returns: a sorted list of keys that map to unique aDict values, empty list if none
